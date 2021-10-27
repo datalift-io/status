@@ -11,10 +11,10 @@ sites:
 
 status-website:
   cname: status.datalift.io
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/datalift-io/status/master/assets/upptime-icon.svg
   name: Datalift Status
-  introTitle: "Attack Surface Discovery and Monitoring Service."
-  introMessage: This is Datalift's real-time status page.
+  introTitle: "Attack Surface Discovery and Monitoring Service"
+  introMessage: "This is Datalift's real-time status page:"
   navbar:
     - title: Status
       href: /
