@@ -13,7 +13,7 @@ status-website:
   cname: status.datalift.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Datalift Status
-  introTitle: "Datalift provides Attack Surface Discovery and Monitoring Service."
+  introTitle: "Attack Surface Discovery and Monitoring Service."
   introMessage: This is Datalift's real-time status page.
   navbar:
     - title: Status
@@ -31,6 +31,5 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
